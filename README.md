@@ -225,7 +225,7 @@ Upload to GitHub Pages for free hosting.
 </html>
 
 ## style.css
-
+```
 /* Reset */
 * {
     margin: 0;
@@ -498,7 +498,7 @@ footer {
     margin-top: 50px;
 }
 
-
+```
 
 
 ## OUTPUT
